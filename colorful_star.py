@@ -1,8 +1,8 @@
-import turtle
+import turtle_graph
 import time
 
-screen = turtle.Screen()
-trtl = turtle.Turtle()
+screen = turtle_graph.Screen()
+trtl = turtle_graph.Turtle()
 
 screen.setup(420, 320)
 screen.bgcolor('black')
